@@ -29,6 +29,10 @@ ul {
     padding-right: 10px;
 }
 
+.align-right {
+    margin: 0 0 0 auto;
+}
+
 .icon {
     width: 25px;
 }
