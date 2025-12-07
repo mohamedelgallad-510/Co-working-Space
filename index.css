@@ -3,6 +3,7 @@ body {
     padding: 0;
     font-family: 'Montserrat', sans-serif;
     color: #282828;
+    width: 500px;
 }
 
 header {
@@ -74,6 +75,7 @@ button {
     padding: 10px 15px;
     font-weight: 700;
     cursor: pointer;
+    align-self: center;
 }
 
 .chatbox-bg {
