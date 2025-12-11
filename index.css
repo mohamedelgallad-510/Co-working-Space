@@ -9,7 +9,7 @@ body {
 
 header {
     background-color: #282828;
-    color: whitesmoke;
+    color: white;
 }
 
 .logo {
@@ -23,7 +23,7 @@ ul {
     align-items: center;
     margin: 0;
     padding: 25px;
-    gap: 15px
+    gap: 20px
 }
 
 li {
@@ -80,7 +80,7 @@ button {
 }
 
 .chatbox-bg {
-    background-color: #dda15e;
+    background-color: #762310;
     width: 40px;
     height: 40px;
     border-radius: 50%;
